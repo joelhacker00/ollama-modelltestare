@@ -22,7 +22,7 @@ Detta är en Streamlit-applikation för att testa och interagera med olika lokal
 
 1.  **Klona Repositoriet (eller ladda ner filerna):**
     ```bash
-    git clone <din-repo-url>
+    git clone https://github.com/joelhacker00/ollama-modelltestare.git
     cd ollama-modelltestare
     ```
     *(Eller ladda ner `app.py`, `requirements.txt` och `README.md` till en mapp)*
